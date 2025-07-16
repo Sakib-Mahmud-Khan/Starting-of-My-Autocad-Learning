@@ -1,1 +1,1 @@
-This repository contains a 2D representation of Doraemon, a popular Japanese cartoon character, fully drawn using AutoCAD.
+This repository contains my drawings of Autocad.I just started to learn
